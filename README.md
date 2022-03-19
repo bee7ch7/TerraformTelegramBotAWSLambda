@@ -1,4 +1,4 @@
-# Terraform script to build zip archive with TelegramBot written on python
+# Terraform script to build zip archive with TelegramBot written on python and run in AWS Lambda environment
 Tested with python 3.9 version
 
 For usage file <filename.tfvars> needed with secrets:

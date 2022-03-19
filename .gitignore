@@ -1,0 +1,6 @@
+stage.tfvars
+.terraform/**
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
